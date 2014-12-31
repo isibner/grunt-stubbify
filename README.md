@@ -1,4 +1,6 @@
 # grunt-stubbify
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
 
 > Grunt version of [stubbify](https://github.com/isibner/stubbify)
 
@@ -129,3 +131,8 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 ### 0.1.0 - Initial Release
+
+[npm-image]: https://img.shields.io/npm/v/grunt-stubbify.svg?style=flat
+[npm-url]: https://www.npmjs.com/package/grunt-stubbify
+[travis-image]: https://img.shields.io/travis/isibner/grunt-stubbify.svg?style=flat
+[travis-url]: https://travis-ci.org/isibner/grunt-stubbify
