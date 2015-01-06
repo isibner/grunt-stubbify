@@ -42,7 +42,7 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "highland": "git://github.com/caolan/highland.git#5e0b846",
+    "highland": "^2.2.0",
     "stubbify": "0.1.1"
   }
 }
