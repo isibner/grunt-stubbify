@@ -2,9 +2,6 @@
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
-  [![NPM Version][npm-image]][npm-url]
-  [![Build Status][travis-image]][travis-url]
-
 > Grunt version of [stubbify](https://github.com/isibner/stubbify)
 
 ## Getting Started
