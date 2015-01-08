@@ -30,6 +30,7 @@ module.exports = function (grunt) {
             grunt.log.warn('Source file "' + filepath + '" not found.');
           }
         })
+        .filter(grunt.file.isFile)
         .filter(grunt.file.exists)
         .flatMap(hl.wrapCallback(stubbify))
         .toArray(function (arr) {
