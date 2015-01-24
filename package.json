@@ -1,7 +1,7 @@
 {
   "name": "grunt-stubbify",
   "description": "Grunt version of stubbify (https://github.com/isibner/stubbify)",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "homepage": "https://github.com/isibner/grunt-stubbify",
   "author": {
     "name": "Ian Sibner",
@@ -43,6 +43,6 @@
   ],
   "dependencies": {
     "highland": "^2.2.0",
-    "stubbify": "0.1.1"
+    "stubbify": "^0.1.0"
   }
 }
